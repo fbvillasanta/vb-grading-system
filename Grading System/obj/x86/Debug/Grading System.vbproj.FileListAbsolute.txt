@@ -1,0 +1,9 @@
+C:\Users\BATMAN\documents\visual studio 2010\Projects\Grading System\Grading System\bin\Debug\Grading System.exe
+C:\Users\BATMAN\documents\visual studio 2010\Projects\Grading System\Grading System\bin\Debug\Grading System.pdb
+C:\Users\BATMAN\documents\visual studio 2010\Projects\Grading System\Grading System\bin\Debug\Grading System.xml
+C:\Users\BATMAN\documents\visual studio 2010\Projects\Grading System\Grading System\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\BATMAN\documents\visual studio 2010\Projects\Grading System\Grading System\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\BATMAN\documents\visual studio 2010\Projects\Grading System\Grading System\obj\x86\Debug\Grading System.vbproj.GenerateResource.Cache
+C:\Users\BATMAN\documents\visual studio 2010\Projects\Grading System\Grading System\obj\x86\Debug\Grading System.exe
+C:\Users\BATMAN\documents\visual studio 2010\Projects\Grading System\Grading System\obj\x86\Debug\Grading System.xml
+C:\Users\BATMAN\documents\visual studio 2010\Projects\Grading System\Grading System\obj\x86\Debug\Grading System.pdb
